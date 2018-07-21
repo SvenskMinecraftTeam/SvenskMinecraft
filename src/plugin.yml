@@ -1,0 +1,6 @@
+name: SvenskMinecraft
+main: se.eskilstunasts.svenskmineccraft.Engine
+version: 1.0
+author: [EskilstunasTs, PadsCraft]
+commands:
+  sc:
