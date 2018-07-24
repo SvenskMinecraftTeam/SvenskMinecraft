@@ -17,6 +17,7 @@ public class RegisterEvents {
         pm.registerEvents(new JoinEvent(), engine);
         pm.registerEvents(new ChatFormat(), engine);
         pm.registerEvents(new StaffChatEvent(), engine);
+        pm.registerEvents(new PlayerBed(), engine);
         engine.getCommand("sc").setExecutor(new StaffChat());
     }
 }
