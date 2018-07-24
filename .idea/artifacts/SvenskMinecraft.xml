@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SvenskMinecraft">
+    <output-path>D:/Skyblock/plugins</output-path>
+    <root id="archive" name="SvenskMinecraft.jar">
+      <element id="module-output" name="Privat" />
+    </root>
+  </artifact>
+</component>
